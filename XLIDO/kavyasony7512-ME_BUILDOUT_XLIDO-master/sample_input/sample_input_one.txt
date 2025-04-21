@@ -1,0 +1,7 @@
+
+CREATE_USER,John Doe,john@example.com
+CREATE_USER,Jane Smith,jane@example.com
+CREATE_EVENT,Tech Conference,1
+ADD_QUESTION,What is Java?,1,1
+UPVOTE_QUESTION,1
+DELETE_EVENT,1
